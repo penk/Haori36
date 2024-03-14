@@ -6,7 +6,7 @@ Low-pro 36-key hot-swappable monoblock split ortho keyboard with optional Pimoro
 
 ## Production Files
 
-To place an order the Haori36 PCB: 
+To place an order for the Haori36 PCB: 
 
 - Use the gerber files in the [production/](production/) folder. 
 - Optionally one can utilize the [BOM](production/BOM.csv) and [CPL](production/CPL.csv) files with a PCBA service to avoid manually soldering SMD diodes, which can be challenging to solder by hand. All components are soldered to the bottom side of the board. 
